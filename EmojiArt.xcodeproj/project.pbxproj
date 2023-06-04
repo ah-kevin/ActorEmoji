@@ -86,7 +86,6 @@
 				9C8AFE1126FCDAB500EC76D3 /* Assets */,
 				1839F4AF25190F2A00BB00F1 /* AppMain.swift */,
 				0AB2FC0F2A2CCC6A000D2167 /* ImageLoader.swift */,
-				0AB2FC112A2CD443000D2167 /* ImageDatabase.swift */,
 			);
 			path = EmojiArt;
 			sourceTree = "<group>";
@@ -104,6 +103,7 @@
 			isa = PBXGroup;
 			children = (
 				9CD905E52701BCCB00D77741 /* DiskStorage.swift */,
+				0AB2FC112A2CD443000D2167 /* ImageDatabase.swift */,
 			);
 			path = Database;
 			sourceTree = "<group>";
